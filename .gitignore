@@ -29,4 +29,5 @@ SCCS
 _$*
 vendor
 /config/database.php
-.idea/*
+**/.idea/
+.name
